@@ -1,0 +1,274 @@
+<mockup version="1.0" skin="sketch" measuredW="1887" measuredH="2343" mockupW="1827" mockupH="2323">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="60" y="20" w="555" h="563" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Link" x="295" y="228" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>add%20some%20fruits</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="628" y="20" w="555" h="563" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ModalScreen" x="628" y="89" w="554" h="470" measuredW="320" measuredH="240" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TitleWindow" x="715" y="171" w="381" h="307" measuredW="450" measuredH="400" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Paste%20in%20some%20data</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="817" y="422" w="148" h="27" measuredW="144" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Import%20and%20Skip%20Edits</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="969" y="422" w="-1" h="-1" measuredW="111" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Import%20and%20Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextArea" x="730" y="276" w="351" h="131" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%7B%20%22fruits%22%3A%20%5B%20%7B%20%22name%22%3A%20%22Pear%22%2C%20%22value%22%3A%201%20%7D%2C%20%7B%20%22name%22%3A%20%22Apple%22%2C%20%22value%22%3A%202%20%7D%2C%20%7B%20%22name%22%3A%20%22Guava%22%2C%20%22value%22%3A%203%20%7D%2C%20%7B%20%22name%22%3A%20%22Nectarine%22%2C%20%22value%22%3A%204%20%7D%2C%20%7B%20%22name%22%3A%20%22Tangerine%22%2C%20%22value%22%3A%205%20%7D%2C%20%7B%20%22name%22%3A%20%22Schnozberry%22%2C%20%22value%22%3A%206%20%5D%20%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="730" y="210" w="351" h="51" measuredW="832" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Paste%20in%20some%20JSON%3A%20should%20have%20a%20%22fruits%22%20attribute%20holding%20a%20reference%20to%20an%20array%20of%20objects%20containing%20%22name%22%20and%20%22value%22%20properties%2C%20as%20shown.</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="730" y="422" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1202" y="20" w="555" h="563" measuredW="450" measuredH="400" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::ModalScreen" x="1202" y="89" w="554" h="470" measuredW="320" measuredH="240" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TitleWindow" x="1289" y="171" w="381" h="307" measuredW="450" measuredH="400" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Paste%20in%20some%20data</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TextArea" x="1304" y="276" w="351" h="131" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>0</borderColor>
+        <color>16777215</color>
+        <text>@%23%24@%23%24@%23%24</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="1304" y="210" w="351" h="51" measuredW="832" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Paste%20in%20some%20JSON%3A%20should%20have%20a%20%22fruits%22%20attribute%20holding%20a%20reference%20to%20an%20array%20of%20objects%20containing%20%22name%22%20and%20%22value%22%20properties%2C%20as%20shown.</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Button" x="1304" y="422" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Alert" x="1383" y="245" w="-1" h="-1" measuredW="200" measuredH="113" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Alert%0AParse%20error%21%0AOK</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::StickyNote" x="1549" y="51" w="184" h="151" measuredW="109" measuredH="123" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Both%20%22Import%22%20buttons%20trigger%20a%20JSON.parse%20call.%20If%20an%20error%20is%20thrown%2C%20just%20alert%20a%20generic%20message.</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Arrow" x="389" y="171" w="265" h="62" measuredW="150" measuredH="100" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <color>2848996</color>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text>click%20link%20to%20show%20modal%20and%20start%20workflow</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Arrow" x="594" y="329" w="147" h="108" measuredW="150" measuredH="100" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text>closes%20modal</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1202" y="607" w="555" h="563" measuredW="450" measuredH="400" zOrder="20" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::ModalScreen" x="1202" y="676" w="554" h="470" measuredW="320" measuredH="240" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TitleWindow" x="1289" y="758" w="381" h="307" measuredW="450" measuredH="400" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit%20data</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Button" x="1604" y="1009" w="-1" h="-1" measuredW="51" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Next</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Button" x="1304" y="1009" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Back</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::DataGrid" x="1304" y="797" w="329" h="170" measuredW="102" measuredH="175" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fruit%2C%20ID%0APear%2C%201%0AApple%2C%202%0AGuava%2C%203%0ANectarine%2C%204%0ATangerine%2C%205</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::TextInput" x="1310" y="849" w="213" h="-1" measuredW="59" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Apple%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::StickyNote" x="1694" y="734" w="193" h="191" measuredW="109" measuredH="123" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%29%20double%20click%20a%20fruit%20name%20to%20edit%0A2%29%20hit%20return%20to%20persist%20change%0A3%29%20hit%20escape%20to%20undo%20change</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Arrow" x="1523" y="834" w="171" h="27" measuredW="150" measuredH="100" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15843890</color>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Arrow" x="919" y="568" w="389" h="445" measuredW="150" measuredH="100" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Arrow" x="1050" y="1023" w="565" h="183" measuredW="150" measuredH="100" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Arrow" x="741" y="574" w="163" h="1016" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Arrow" x="741" y="861" w="461" h="729" measuredW="150" measuredH="100" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Arrow" x="930" y="441" w="96" h="765" measuredW="150" measuredH="100" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Arrow" x="1041" y="441" w="422" h="187" measuredW="150" measuredH="100" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="615" y="1780" w="555" h="563" measuredW="450" measuredH="400" zOrder="36" locked="false" isInGroup="-1"/>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Link" x="832" y="1982" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>add%20some%20fruits</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::List" x="832" y="2047" w="-1" h="-1" measuredW="100" measuredH="128" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Pear%0AApple%0AGuava%0ANectarine%0ATangerine%0APersimmon</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="832" y="2022" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>added%20fruits</text>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Arrow" x="865" y="1605" w="161" h="196" measuredW="150" measuredH="100" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <color>2848996</color>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::List" x="295" y="289" w="-1" h="-1" measuredW="100" measuredH="126" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Label" x="295" y="264" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>added%20fruits</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="__group__" x="615" y="1186" w="568" h="563" measuredW="568" measuredH="563" zOrder="30" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="555" h="563" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="83"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ModalScreen" x="0" y="69" w="554" h="470" measuredW="320" measuredH="240" zOrder="1" locked="false" isInGroup="83"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TitleWindow" x="87" y="151" w="381" h="307" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="83">
+          <controlProperties>
+            <text>Results</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="382" y="402" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="3" locked="false" isInGroup="83">
+          <controlProperties>
+            <text>Finished</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="102" y="402" w="-1" h="-1" measuredW="53" measuredH="27" zOrder="4" locked="false" isInGroup="83">
+          <controlProperties>
+            <text>Back</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::StickyNote" x="431" y="15" w="137" h="144" measuredW="109" measuredH="123" zOrder="5" locked="false" isInGroup="83">
+          <controlProperties>
+            <text>Back%20button%20goes%20to%20different%20places%20depending%20on%20previous%20context</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="133" y="281" w="-1" h="-1" measuredW="288" measuredH="21" zOrder="6" locked="false" isInGroup="83">
+          <controlProperties>
+            <text>Clicking%20%22Finish%22%20will%20add%206%20fruits%20to%20your%20list%20of%20fruits.</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1633" y="797" w="-1" h="170" measuredW="16" measuredH="100" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Button" x="1392" y="422" w="148" h="27" measuredW="144" measuredH="27" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Import%20and%20Skip%20Edits</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Button" x="1544" y="422" w="-1" h="-1" measuredW="111" measuredH="27" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Import%20and%20Edit</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

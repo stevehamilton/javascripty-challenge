@@ -1,0 +1,21 @@
+{
+    "fruits": [{
+        "name": "Pear",
+        "value": 1
+    }, {
+        "name": "Apple",
+        "value": 2
+    }, {
+        "name": "Guava",
+        "value": 3
+    }, {
+        "name": "Nectarine",
+        "value": 4
+    }, {
+        "name": "Tangerine",
+        "value": 5
+    }, {
+        "name": "Schnozberry",
+        "value": 6
+    ]
+}
