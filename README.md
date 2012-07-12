@@ -6,7 +6,14 @@ The ideal candidate will be proficient with JavaScript, will have written a few 
 
 ## WHAT
 
-This paid challenge assignment is designed to help us assess your proficiency building a small system using JavaScript and Backbone. It contains a few challenging problems (nonlinear workflows, nested views, state-maintenance, etc.), but shouldn't take much longer than a day to complete. The finalized product does not need to look good; we're going for function rather than presentation.
+This paid challenge assignment is designed to help us assess your proficiency building a small system using JavaScript and Backbone. We'd like you to implement what you see in the mockups; it needs to be able to:
+
+1. Parse some entered JSON to a Backbone collection
+1. Allow the user to edit models in the collection, if desired
+1. Allow the user to go back to beginning of workflow and re-parse entered JSON
+1. Allow the user to go back and forth between steps in the workflow
+
+It contains a few challenging problems (nonlinear workflows, nested views, state-maintenance, etc.), but shouldn't take much longer than a day to complete. The finalized product does not need to look good; we're going for function rather than presentation.
 
 ## HOW
 
